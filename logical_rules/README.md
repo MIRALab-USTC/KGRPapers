@@ -2,11 +2,11 @@
 
 **Differentiable learning of logical rules for knowledge base reasoning**. NIPS 2017.
 *Yang, Fan and Yang, Zhilin and Cohen, William W*. 
-[[Paper](https://papers.nips.cc/paper/6826-differentiable-learning-of-logical-rules-for-knowledge-base-reasoning.pdf)][[code](https://github.com/fanyangxyz/Neural-LP)]
+[[Paper](https://papers.nips.cc/paper/6826-differentiable-learning-of-logical-rules-for-knowledge-base-reasoning.pdf)][[Code](https://github.com/fanyangxyz/Neural-LP)]
 
 **End-to-end differentiable proving**. NIPS 2017. 
 *Rocktäschel, Tim and Riedel, Sebastian*. 
-[[Paper](https://papers.nips.cc/paper/6969-end-to-end-differentiable-proving.pdf)][[code](https://github.com/uclnlp/ntp)]
+[[Paper](https://papers.nips.cc/paper/6969-end-to-end-differentiable-proving.pdf)][[Code](https://github.com/uclnlp/ntp)]
 
 **Embedding Logical Queries on Knowledge Graphs**. NIPS 2018.
 *Will Hamilton, Payal Bajaj, Marinka Zitnik, Dan Jurafsky, Jure Leskovec*.
