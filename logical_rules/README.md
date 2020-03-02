@@ -1,5 +1,9 @@
 # Logical Rules for Knowledge Graph Reasoning
 
+**AMIE: association rule mining under incomplete evidence in ontological knowledge bases**. WWW 2013.
+*Luis Galárraga, Christina Teflioudi, Katja Hose, Fabian M. Suchanek*.
+[[Paper](http://luisgalarraga.de/docs/amie.pdf)]
+
 **Differentiable learning of logical rules for knowledge base reasoning**. NIPS 2017.
 *Yang, Fan and Yang, Zhilin and Cohen, William W*. 
 [[Paper](https://papers.nips.cc/paper/6826-differentiable-learning-of-logical-rules-for-knowledge-base-reasoning.pdf)][[Code](https://github.com/fanyangxyz/Neural-LP)]
