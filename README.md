@@ -51,6 +51,14 @@
 *Rajarshi Das, Shehzaad Dhuliawala, Manzil Zaheer, Luke Vilnis, Ishan Durugkar, Akshay Krishnamurthy, Alex Smola, Andrew McCallum*.
 [[Paper](https://arxiv.org/pdf/1711.05851.pdf)]
 
+**M-Walk: Learning to Walk over Graphs using Monte Carlo Tree Search**. NIPS 2018.
+*Yelong Shen, Jianshu Chen, Po-Sen Huang, Yuqing Guo, Jianfeng Gao*.
+[[Paper](https://papers.nips.cc/paper/7912-m-walk-learning-to-walk-over-graphs-using-monte-carlo-tree-search.pdf)]
+
+**Multi-Hop Knowledge Graph Reasoning with Reward Shaping**. EMNLP 2018.
+*Xi Victoria Lin, Richard Socher, Caiming Xiong*.
+[[Paper](https://www.aclweb.org/anthology/D18-1362/)]
+
 **DRUM: End-To-End Differentiable Rule Mining On Knowledge Graphs**. NeurIPS 2019. 
 *Ali Sadeghian, Mohammadreza Armandpour, Patrick Ding, Daisy Zhe Wang*. 
 [[Paper](https://papers.nips.cc/paper/9669-drum-end-to-end-differentiable-rule-mining-on-knowledge-graphs.pdf)] [[Code](https://github.com/alisadeghian/DRUM)]
